@@ -1,4 +1,4 @@
-# Modern Data Engineering | Uber Data Analytics
+# Modern Data Engineering Project | Uber Data Analytics
 
 ## Introduction
 
@@ -15,8 +15,8 @@
     3. BigQuery
     4. Looker Studio
 
-Modern Data Pipeine Tool - https://www.mage.ai/
-Open source project - https://github.com/mage-ai/mage-ai
+- Modern Data Pipeine Tool - https://www.mage.ai/
+- Open source project - https://github.com/mage-ai/mage-ai
 
 ## Dataset Used
 TLC Trip Record Data
